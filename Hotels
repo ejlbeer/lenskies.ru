@@ -1,0 +1,72 @@
+<html>
+<head>
+</head>
+<title>Достопримечательности</title>
+<body><table><tr><td><img src="file:///C:/Users/%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA/Desktop/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA.png" height="20" width="20" /></td><td><a href="voiti.html"><input type="button" value="Авторизоваться"></a></td><tr></table></body>
+<center>
+<table wight="0">
+<caption><font color="#1E90FF"><a href="main">Lenskies.ru</a></font></caption>
+<tr>
+<td><body>
+<b><a href="main"><img src="file:///C:/Users/%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA/Desktop/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" height="40" width="40"/></a></b>
+</body>
+</td>
+<td>
+<body>
+<font color="#1E90FF">
+<b><span style="font-size:20pt"> Достопримечательности |</span></a></b>
+</font></body>
+ </td>
+<td>
+<body>
+<font color="#1E90FF">
+<b><a href="Tours.html"> Поездка |</a></b>
+</font></body>
+ </td>
+<td>
+<body>
+<font color="#1E90FF">
+<b><a href="Otzivi.html"> Отзывы </a></b>
+</font></body>
+ </td>
+</tr>
+</table>
+</center>
+<center>
+	<img src="file:///C:/Users/%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA/Desktop/%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD/%D1%81%D0%B8%D0%BD%D1%8F%D1%8F%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F.png" width="1600" />
+<table wight="100">
+<tr>
+	<center>
+<td><img src="file:///C:/Users/%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA/Desktop/buluus.jpg" height="225" width="300" /></td><td><img src="file:///C:/Users/%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA/Desktop/kurulur.jpg" height="225" width="300" /></td>
+</center>
+</tr>
+<tr><center>
+<td><b><span style="font-size:20pt"><font color="#1E90FF">Ледник "Булуус"</font></span></b></td><td><span style="font-size:20pt"><font color="#1E90FF"><b>Водопад "Курулуур"</b></td>
+</center>
+</tr>
+<tr>
+<tr><td>Булуус — памятник природы республиканского значения.</td><td>  Курулуур - Водопады на реке Менда Хангаласского улуса </td></tr>
+<tr><td>Общая площадь территории составляет 1105 гектаров.</td><td>  Якутии. Расположены на правобережье Лены в таёжной </td></tr>
+<tr><td> Уникальный источник подземных вод образует наледи чистой</td><td>  зоне в 110 километрах по автодороге от Якутска. </td></tr>
+<td>пресной воды, которые не тают даже в самые жаркие дни.</td><td>  Популярное место отдыха </td></tr>
+</tr>
+</table>
+<table wight="100">
+<tr>
+	<center>
+<td><img src="file:///C:/Users/%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA/Desktop/IMG_20200223_211721-800x600.jpg" height="225" width="300" /></td><td><img src="file:///C:/Users/%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA/Desktop/Lenskie-stolby_1.jpg" height="225" width="300" /></td>
+</center>
+</tr>
+<tr><center>
+<td><b><span style="font-size:20pt"><font color="#1E90FF">Бизонарий</font></span></b></td><td><span style="font-size:20pt"><font color="#1E90FF"><b>Ленские Столбы</b></td>
+</center>
+</tr>
+<tr>
+<tr><td>Бизонарий «Усть-Буотама» — питомник лесных бизонов.</td><td> Скальные образования, высота которых доходит до 220</td></tr>
+<tr><td>Был открыт в 2006 году в устье реки Буотама.</td><td> метров над уровнем реки,  сложены кембрийскими </td></tr> 
+<tr><td> Животных завезли из Канады, так как своих</td><td> известняками. В тектоническом отношении Ленские </td></tr>
+<td>бизонов в Якутии не осталось.</td><td>столбы лежат в пределах Сибирской платформы. </td></tr>
+</tr>
+</table>
+</center>
+</html>

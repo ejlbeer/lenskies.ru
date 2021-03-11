@@ -1,0 +1,42 @@
+<html>
+<head>
+</head>
+<title>Главная Страница</title>
+<body><table><tr><td><img src="file:///C:/Users/%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA/Desktop/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA.png" height="20" width="20" /></td><td><a href="voiti.html"><input type="button" value="Авторизоваться"></a></td><tr></table></body>
+<center>
+<table wight="0">
+<caption><font color="#0000FF" >Lenskies.ru</font></caption>
+<tr>
+<td>
+<img src="file:///C:/Users/%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA/Desktop/%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" height="33" width="33"/></td>
+<td><body>
+<b></b>
+</body>
+</td>
+<td>
+<body>
+<font color="#0000FF">
+<b><a href="Hotels"> Достопримечательности |</span></a></b>
+</font></body>
+ </td>
+<td>
+<body>
+<font color="#0000FF">
+<b><a href="Tours.html"> Поездка |</a></b>
+</font></body>
+ </td>
+<td>
+<body>
+<font color="#0000FF">
+<b><a href="Otzivi.html"> Отзывы </a></b>
+</font></body>
+ </td>
+<tr>
+</table>
+</center>
+<img src="file:///C:/Users/%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA/Desktop/%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD/%D1%81%D0%B8%D0%BD%D1%8F%D1%8F%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F.png" width="1600" />
+<center>
+<p><b><span style="font-size:40pt"><font color="#1E90FF">Горячee предложениe!</font></span><b></p>
+<img src="file:///C:/Users/%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA/Desktop/Lenskie-stolby_1%20(1).jpg" />
+</center>
+</html>
